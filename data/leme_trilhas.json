@@ -1,0 +1,122 @@
+{
+  "Advogado": {
+    "nome": "IA para Advogados",
+    "modulos": [
+      "Módulo 1: Introdução à IA Jurídica",
+      "Módulo 2: Automação de Contratos",
+      "Módulo 3: Análise de Jurisprudência com IA",
+      "Módulo 4: Ética e Responsabilidade Digital",
+      "Módulo 5: Prática com Ferramentas Jurídicas"
+    ]
+  },
+  "Design": {
+    "nome": "IA para Designers",
+    "modulos": [
+      "Módulo 1: Fundamentos de IA Generativa",
+      "Módulo 2: Ferramentas de Design com IA",
+      "Módulo 3: Criação de Imagens e Protótipos",
+      "Módulo 4: UX/UI Acessível",
+      "Módulo 5: Portfolio Digital"
+    ]
+  },
+  "Secretariado": {
+    "nome": "IA para Secretariado",
+    "modulos": [
+      "Módulo 1: Assistentes Virtuais e Automação",
+      "Módulo 2: Gestão de Agenda e Tarefas",
+      "Módulo 3: Comunicação Empresarial com IA",
+      "Módulo 4: Organização de Documentos",
+      "Módulo 5: Soft Skills para Secretariado"
+    ]
+  },
+  "Contabilidade": {
+    "nome": "IA para Contabilidade",
+    "modulos": [
+      "Módulo 1: IA na Gestão Financeira",
+      "Módulo 2: Análise de Dados Contábeis",
+      "Módulo 3: Automação de Processos Fiscais",
+      "Módulo 4: Auditoria com IA",
+      "Módulo 5: Relatórios Inteligentes"
+    ]
+  },
+  "Logistica": {
+    "nome": "IA para Logística",
+    "modulos": [
+      "Módulo 1: Otimização de Rotas com IA",
+      "Módulo 2: Previsão de Demanda",
+      "Módulo 3: Gestão de Estoque Inteligente",
+      "Módulo 4: Rastreamento e IoT",
+      "Módulo 5: Sustentabilidade Logística"
+    ]
+  },
+  "SoftSkills": {
+    "nome": "Soft Skills Essenciais",
+    "modulos": [
+      "Módulo 1: Comunicação Eficaz",
+      "Módulo 2: Liderança Inclusiva",
+      "Módulo 3: Resolução de Problemas",
+      "Módulo 4: Trabalho em Equipe",
+      "Módulo 5: Adaptabilidade e Resiliência"
+    ]
+  },
+  "Advogado_Acessivel": {
+    "nome": "IA para Advogados (Acessível)",
+    "modulos": [
+      "Módulo 1: Introdução à IA Jurídica",
+      "Módulo 2: Automação de Contratos",
+      "Módulo 3: Análise de Jurisprudência com IA",
+      "Módulo 4: Ética e Responsabilidade Digital",
+      "Módulo 5: Prática com Ferramentas Jurídicas"
+    ]
+  },
+  "Design_Acessivel": {
+    "nome": "IA para Designers (Acessível)",
+    "modulos": [
+      "Módulo 1: Fundamentos de IA Generativa",
+      "Módulo 2: Ferramentas de Design com IA",
+      "Módulo 3: Criação de Imagens e Protótipos",
+      "Módulo 4: UX/UI Acessível",
+      "Módulo 5: Portfolio Digital"
+    ]
+  },
+  "Secretariado_Acessivel": {
+    "nome": "IA para Secretariado (Acessível)",
+    "modulos": [
+      "Módulo 1: Assistentes Virtuais e Automação",
+      "Módulo 2: Gestão de Agenda e Tarefas",
+      "Módulo 3: Comunicação Empresarial com IA",
+      "Módulo 4: Organização de Documentos",
+      "Módulo 5: Soft Skills para Secretariado"
+    ]
+  },
+  "Contabilidade_Acessivel": {
+    "nome": "IA para Contabilidade (Acessível)",
+    "modulos": [
+      "Módulo 1: IA na Gestão Financeira",
+      "Módulo 2: Análise de Dados Contábeis",
+      "Módulo 3: Automação de Processos Fiscais",
+      "Módulo 4: Auditoria com IA",
+      "Módulo 5: Relatórios Inteligentes"
+    ]
+  },
+  "Logistica_Acessivel": {
+    "nome": "IA para Logística (Acessível)",
+    "modulos": [
+      "Módulo 1: Otimização de Rotas com IA",
+      "Módulo 2: Previsão de Demanda",
+      "Módulo 3: Gestão de Estoque Inteligente",
+      "Módulo 4: Rastreamento e IoT",
+      "Módulo 5: Sustentabilidade Logística"
+    ]
+  },
+  "SoftSkills_Acessivel": {
+    "nome": "Soft Skills Essenciais (Acessível)",
+    "modulos": [
+      "Módulo 1: Comunicação Eficaz",
+      "Módulo 2: Liderança Inclusiva",
+      "Módulo 3: Resolução de Problemas",
+      "Módulo 4: Trabalho em Equipe",
+      "Módulo 5: Adaptabilidade e Resiliência"
+    ]
+  }
+}
