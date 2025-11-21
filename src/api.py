@@ -218,10 +218,6 @@ def suggest_trilha():
         trilha_pred = modelo_class.predict(X_scaled)[0]
         logger.info(f"Modelo previu: {trilha_pred}")
         
-        # Calcular confiança
-        proba = modelo_class.predict_proba(X_scaled)[0]
-        confianca = float(proba.max())
-        
         # Buscar trilha no catálogo para pegar o UUID
         if trilha_pred not in TRILHAS:
             logger.error(f"Trilha {trilha_pred} não encontrada no catálogo")
@@ -235,11 +231,10 @@ def suggest_trilha():
         
         # Resposta FINAL: apenas UUID e confiança
         resposta = {
-            'id_trilha': id_trilha,
-            'confianca': round(confianca, 3)
+            'id_trilha': id_trilha
         }
         
-        logger.info(f"✅ Sugestão: {id_trilha} (confiança: {confianca:.2%})")
+        logger.info(f"✅ Sugestão: {id_trilha}")
         return jsonify(resposta), 200
         
     except ValueError as e:
