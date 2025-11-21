@@ -1,6 +1,7 @@
 # API Flask
 Flask
 Flask-CORS
+numpy
 gunicorn
 
 # Testes
